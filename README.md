@@ -1,6 +1,6 @@
 ## Lionel Messi Pass Map vs Real Betis 2020
 
-This is a python visualization created using matplotlib. This based on the tutorial by McKay Johns, and MPLSoccer python library.
+This is a python visualization created using matplotlib. This is based on the tutorial made by McKay Johns, and the MPLSoccer python library.
 
 The link to his tutorial video is [here](https://www.youtube.com/watch?v=Qx0F1QjOq5A), and this is the link to the [MPLSoccer Github](https://github.com/andrewRowlinson/mplsoccer/blob/master/docs/source/index.rst)
 
